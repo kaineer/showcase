@@ -5,6 +5,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
+    "clean": "rm -rf ./node_modules",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

@@ -3,7 +3,7 @@ const { join } = require("path");
 // const production = process.ENV !== "development";
 // const mode = production ? "production" : "development";
 // const mode = "production";
-const mode = "development";
+const mode = "production";
 
 module.exports = {
   mode,
